@@ -1,14 +1,16 @@
 {
-  "latest": "1.3.4",
-  "title": "Purpur 1.3.4",
-  "published_at": "2026-05-30",
+  "latest": "1.3.5",
+  "title": "Purpur 1.3.5",
+  "published_at": "2026-06-18",
   "mandatory": false,
-  "download_url": "https://github.com/Huipupu/Purpur-Updates/releases/download/v1.3.4/Purpur-Setup-1.3.4.exe",
-  "release_page": "https://github.com/Huipupu/Purpur-Updates/releases/tag/v1.3.4",
-  "sha256": "A8E200BFB4F032391307FB37D0C411725BA394012D1896424CA4D85DB98210DE",
+  "download_url": "https://github.com/Huipupu/Purpur-Updates/releases/download/v1.3.5/Purpur-Setup-1.3.5.exe",
+  "release_page": "https://github.com/Huipupu/Purpur-Updates/releases/tag/v1.3.5",
+  "sha256": "603D1EF541AA640509DDCD18B7DAA9A62B0717020C0B2A1D417CCD6940C4F785",
   "notes": [
-    "全新录音棚风格界面，配色、字体与控件全面重构",
-    "字幕合成 / 语音克隆 / 合成历史 界面布局与排版优化",
-    "修复后端重连后模型列表与音色库偶发未刷新"
+    "全新界面动效：切换、列表、展开折叠等过渡更顺滑，新增点按反馈",
+    "合成历史记录自上而下依次淡入；可在设置中一键开关界面动效",
+    "修复语音克隆「提取工作区音频」按钮偶发消失（空白框）的问题",
+    "字幕拆条纯数字行误删修复；按工作流唤醒模型，降低显存占用",
+    "通信安全增强：后端接口新增会话令牌校验"
   ]
 }
