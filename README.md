@@ -1,6 +1,6 @@
 # Purpur Updates
 
-Version 1.4.0 is coming soon.
+Purpur 1.4.0 is out: [download it here](https://github.com/Huipupu/Purpur-Updates/releases/latest).
 
 Public update feed and installer releases for Purpur.
 
